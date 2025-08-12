@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **projects from your side**
 
-- 👨‍💻 All of my projects are available at [https://portfoliosrikanth.netlify.app/](https://portfoliosrikanth.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/srikanth3608](https://github.com/srikanth3608)
 
 - 📫 How to reach me **sri3608j@gmail.com**
 
