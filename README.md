@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikanth3608" alt="srikanth3608" /></a> </p>
 
-- 🔭 I’m currently studying on **Gnanamani College of Technology, Namakkal**
+- 🔭 I’m completed college on **Gnanamani College of Technology, Namakkal**
 
 - 🌱 I’m currently learning **ReactJS, ExpressJS, MongoDB, NodeJS and MySQL**
 
